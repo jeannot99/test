@@ -9,3 +9,9 @@ tirer les modifications du serveur vers la machine
 git pull execute 2 commandes
  - git fetch
  - git rebase
+
+git pull request
+ - créer un fork du projet;
+ - créer une nouvelle branche;
+ - faire ses modifications et commit;
+ - ouvrir un pull request sur le projet original;
