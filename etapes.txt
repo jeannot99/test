@@ -15,3 +15,15 @@ git pull request
  - créer une nouvelle branche;
  - faire ses modifications et commit;
  - ouvrir un pull request sur le projet original;
+
+ git revert
+ annule un commit particulier ou un ensemble de commit sans modifier
+ les commit precedents.
+  - git revert head
+    annule le dernier commit
+
+  - git revert num_du commit
+    annule un commit particulier
+
+  - git revert num..num
+    annule une plage de commit
