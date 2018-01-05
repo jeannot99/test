@@ -3,3 +3,9 @@ recupere un depot distant
 
 git push
 pousse les modif sur le depot
+
+git pull
+tirer les modifications du serveur vers la machine
+git pull execute 2 commandes
+ - git fetch
+ - git rebase
