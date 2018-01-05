@@ -1,3 +1,5 @@
-blabla
-blabla
-blabla
+git clone https://github.com/jeannot99/test.git
+recupere un depot distant
+
+git push
+pousse les modif sur le depot
