@@ -5,6 +5,9 @@ git push
 pousse les modif sur le depot
 
 git pull
+git pull
+tirer les modifications du serveur vers la machine
+git pull execute 2 commandes
 tirer les modifications du serveur vers la machine
 git pull execute 2 commandes
  - git fetch
